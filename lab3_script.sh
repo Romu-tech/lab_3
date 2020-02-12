@@ -1,6 +1,6 @@
 #!/bin/bash
-# Authors : Your Name & Your partner's name
-# Date: 1/1/2019
+# Authors : Rohit Muralidharan
+# Date: 2/11/2020
 
 #Problem 1 and 2 Code:
 #Make sure to document how you are solving each problem!
